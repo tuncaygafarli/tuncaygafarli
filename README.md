@@ -7,26 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/tuncaystinson" target="blank"><img src="https://img.shields.io/twitter/follow/tuncaystinson?logo=twitter&style=for-the-badge" alt="tuncaystinson" /></a> </p>
 
-- 🔭 I’m currently working on [JurnLet](https://github.com/JurnLet/jurnlet)
-
-- 🌱 I’m currently learning **React Router v7**
-
-- 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
-
-- 🤝 I’m looking for help with [JurnLet](https://github.com/JurnLet/jurnlet)
-
-- 👨‍💻 All of my projects are available at [repositories.](repositories.)
-
-- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/tuncayofficial)
-
-- 💬 Ask me about **Full-stack basics & pipeline.**
-
-- 📫 How to reach me **qtuncay40@gmail.com**
-
-- 📄 Know about my experiences [https://dev.to/dashboard](https://dev.to/dashboard)
-
-- ⚡ Fun fact **I am a music producer.**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [From Zero to 🚀: Building a Serverless Task Manager with React, Node.js, and AWS](https://dev.to/tuncayofficial/from-zero-to-building-a-serverless-task-manager-with-react-nodejs-and-aws-3go9)

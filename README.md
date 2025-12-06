@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuncayofficial&show_icons=true&locale=en" alt="tuncayofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuncayofficial&" alt="tuncayofficial" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)

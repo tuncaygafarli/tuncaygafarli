@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuncay</h1>
 <h3 align="center">☕👨‍💻 Turning caffeine & code into real-world magic.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuncayofficial&label=Profile%20views&color=0e75b6&style=flat" alt="tuncayofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuncaygafarli&label=Profile%20views&color=0e75b6&style=flat" alt="tuncayofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuncayofficial" alt="tuncayofficial" /></a> </p>
 
@@ -24,11 +24,5 @@
 <a href="https://www.youtube.com/c/kahnmadeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kahnmadeit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tuncayofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tuncayofficial" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuncayofficial&show_icons=true&locale=en&layout=compact" alt="tuncayofficial" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuncayofficial&show_icons=true&locale=en" alt="tuncayofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuncayofficial&" alt="tuncayofficial" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
